@@ -1,2 +1,3 @@
 # Maths-for-Computing-III
 Random Joke Generator With Adam Optimizer
+For this group project, my group and I proposed a topic which was straightaway rejected as it was too mainstream and our lecturer asked us to think of a different topic, hence where the idea to create a random joke generator was thought out. We first thought of using Markov Chains. But along the way of our project, we found out that there would be times when the joke would not be a joke if we use Markov Chains (it just wasn't a good algorithm). After thorough research, we found out about Adam Optimizer. Hence, why we decided to use Adam Optimizer. I have attached the group project report which would have further explanation on why we used Adam Optimizer. 
